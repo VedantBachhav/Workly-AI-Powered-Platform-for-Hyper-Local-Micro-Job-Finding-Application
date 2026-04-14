@@ -75,3 +75,9 @@ You can download and test the Android application using the link below:
 > Note: Enable "Install from Unknown Sources" on your Android device.
 
 ⭐ Star this repo if you find it helpful!
+
+## Our Team
+
+- Hanif Jamadar - Frontend and Backend Development
+- Arman Kadri - Documentation, Presentation and Develop Figma
+- Vedant Bachhav - Build XGBoost Model and handle all AIML related Task.
